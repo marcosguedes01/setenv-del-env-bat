@@ -1,0 +1,1 @@
+setx VAR1 "valor1" /M
